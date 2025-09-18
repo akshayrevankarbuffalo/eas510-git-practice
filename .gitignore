@@ -1,0 +1,15 @@
+# Python/ML
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+env/
+venv/
+.env/
+.ipynb_checkpoints/
+data/
+models/
+*.h5
+*.ckpt
+*.pt
